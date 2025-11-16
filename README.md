@@ -125,11 +125,10 @@ PAGE 4
 ```
 
 ## OUTPUT:
-<img width="595" height="893" alt="Screenshot 2025-11-16 165421" src="https://github.com/user-attachments/assets/f81abd62-043d-45dc-8a42-97aacd76a8db" />
 <img width="897" height="952" alt="Screenshot 2025-11-16 165403" src="https://github.com/user-attachments/assets/aec3e07c-7584-4809-ab7d-f8e384b9e5fc" />
-<img width="612" height="939" alt="Screenshot 2025-11-16 165442" src="https://github.com/user-attachments/assets/c1dad468-f0d5-4976-be73-477086c8c552" />
+<img width="595" height="893" alt="Screenshot 2025-11-16 165421" src="https://github.com/user-attachments/assets/f81abd62-043d-45dc-8a42-97aacd76a8db" />
 <img width="588" height="949" alt="Screenshot 2025-11-16 165431" src="https://github.com/user-attachments/assets/b9085fc4-9f02-4fb4-b9fb-153ad94a6fc8" />
-
+<img width="612" height="939" alt="Screenshot 2025-11-16 165442" src="https://github.com/user-attachments/assets/c1dad468-f0d5-4976-be73-477086c8c552" />
 
 ## RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
